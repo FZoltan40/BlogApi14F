@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace BlogApi.Models;
 
@@ -17,5 +18,6 @@ public partial class Post
 
     public int? Bloggerid { get; set; }
 
+    [JsonIgnore]
     public virtual Blogger? Blogger { get; set; }
 }
