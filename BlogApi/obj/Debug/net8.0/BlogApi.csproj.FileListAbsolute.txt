@@ -128,3 +128,4 @@ C:\Users\zoli\Desktop\2025_2026\2_14_F\BlogApi\BlogApi\obj\Debug\net8.0\refint\B
 C:\Users\zoli\Desktop\2025_2026\2_14_F\BlogApi\BlogApi\obj\Debug\net8.0\BlogApi.pdb
 C:\Users\zoli\Desktop\2025_2026\2_14_F\BlogApi\BlogApi\obj\Debug\net8.0\BlogApi.genruntimeconfig.cache
 C:\Users\zoli\Desktop\2025_2026\2_14_F\BlogApi\BlogApi\obj\Debug\net8.0\ref\BlogApi.dll
+C:\Users\zoli\Desktop\2025_2026\2_14_F\BlogApi\BlogApi\obj\Debug\net8.0\BlogApi.sourcelink.json

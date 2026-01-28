@@ -1,4 +1,6 @@
 
+using BlogApi.Models;
+
 namespace BlogApi
 {
     public class Program
@@ -6,6 +8,8 @@ namespace BlogApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddScoped<BlogContext>();
 
             // Add services to the container.
 
